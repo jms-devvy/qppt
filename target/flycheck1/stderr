@@ -1,4 +1,2 @@
     Checking qppt v0.1.0 (/home/jmsdevvy/MyProjs/qppt)
-error: could not compile `qppt` (bin "qppt") due to 2 previous errors; 2 warnings emitted
-warning: build failed, waiting for other jobs to finish...
-error: could not compile `qppt` (bin "qppt" test) due to 2 previous errors; 2 warnings emitted
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.08s
